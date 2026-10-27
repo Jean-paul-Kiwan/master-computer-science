@@ -1,10 +1,16 @@
 # Advanced Computer Science — Study Collection
 
-A separate home for advanced computer-science coursework, research exercises, and technical experiments.
+A separate index for advanced computer-science coursework, research exercises, and technical experiments. Owner-reported context: Lebanese University Master 1 studies, currently paused. This is not a completed Master's qualification claim.
 
 ## Current contents
 
-This repository currently contains an organizational README only. No implementations, research results, or completed qualifications are demonstrated by this collection yet.
+This repository contains an index only; project source is maintained in its dedicated repository.
+
+| Project | Context | Source | Status |
+| --- | --- | --- | --- |
+| Driver drowsiness detection | Owner-reported Master 1 machine-learning coursework | [Code and limitations](https://github.com/Jean-paul-Kiwan/driver-drowsiness-detection) | Source archived; datasets/weights omitted; run and model efficacy not verified |
+
+The published README documents the training/inference feature mismatch, self-generated-label evaluation and log-overwrite behavior. No accuracy, road-safety or deployment claim is made. Taskboard, NGO and F1 are not assigned to this program without confirmed academic context.
 
 ## Adding material
 
